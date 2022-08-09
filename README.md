@@ -39,7 +39,6 @@
 <details id="missing-code-coverage">
   <summary>Install with pip</summary>
 
-* `pip install urllib`
 * `pip install requests`
 * `pip install shortener`
 
