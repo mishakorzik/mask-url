@@ -53,7 +53,7 @@ short.dagd("link")
 
 //example
 
-short.cuttly("google.com!awesome")
+short.cuttly("google.com!goodness")
 short.isgd("google.com")
 short.dagd("google.com")
 ```
