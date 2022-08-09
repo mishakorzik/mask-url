@@ -37,6 +37,30 @@
 * `pip3 install requests`
 
 <details id="missing-code-coverage">
+  <summary>Install with pip</summary>
+
+* `pip install urllib`
+* `pip install requests`
+* `pip install shortener`
+
+## Usage
+
+```python
+from shortener import short
+short.cuttly("link!name")
+short.isgd("link")
+short.dagd("link")
+
+//example
+
+short.cuttly("google.com!awesome")
+short.isgd("google.com")
+short.dagd("google.com")
+```
+
+</details>
+
+<details id="missing-code-coverage">
   <summary>Need help with installation</summary>
 
 **1. If you have problems installing the requests library: python3 -m pip install requests, smtp<br>**
